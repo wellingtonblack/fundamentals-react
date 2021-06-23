@@ -1,0 +1,13 @@
+.container-passo{
+  display: flex;
+  flex-direction: column;
+  max-width: 200px;
+  margin: auto;
+  input {
+    text-align: center;
+    width: 60px;
+    margin: auto;
+    font-size: 1.4rem;
+
+  }
+}
